@@ -11,7 +11,6 @@ Sering kali yang muncul di benak adalah _"Saya mau belajar tentang h4cking, pent
 * Integrity (Integritas): melindungi keutuhan datadan informasi organisasi dari modifikasi yang tidaksah 
 * Availability (Ketersediaan): melindungi ketersediaan data dan informasi organisasi, sehingga data tersedia pada saat dibutuhkan
 
-
 [Insret Gambar CIA Triad]
 
 ## Mengapa Harus Aware?
@@ -74,13 +73,15 @@ Lorem ipsum..
 Lorem ipsum..
 
 ## RANSOM
-
-*** Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
+aaa
+bbb
+**Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
 
 ## Manusia Lemah Terhadap Beberapa Hal Ini
 > Serangan siber yang sering menargetkan manusia.
 
-** SOCENG: Social Engineering
+### SOCENG: Social Engineering
+
 _"Amatir menyerang sistem. Profesional menyerang manusia."_
 Mungkin kalimat tersebut sering terdengar bagi kaum-kaum yang sering nongkrong di bidang keamanan informasi dan siber. Apakah terkesan lebay? Hmmm... Tidak juga. Karena memang pada dasarnya manusia lah yang menjadi mata rantai terlemah dalam sebuah sistem. Salah satu bacaan mengenai Soceng dapat dibaca dalam buku berjudul _"Social Engineering: The Science of Human Hacking 2nd Edition"_ oleh Christopher Hadnagy.
 
@@ -88,8 +89,9 @@ Dalam konteks keamanan informasi, _Social Engineering_ atau Rekayasa Sosial meru
 
 Simpelnya. Soceng itu **nge-hack manusia**.
 
-*** Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
+**Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
 
-** Phishing **
-
-*** Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
+###  Phishing
+aaa
+bbb
+**Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
