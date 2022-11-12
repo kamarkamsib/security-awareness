@@ -74,10 +74,22 @@ Lorem ipsum..
 Lorem ipsum..
 
 ## RANSOM
-Lorem ipsum..
 
-## PHISING
-Lorem ipsum..
+*** Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
 
-## SOCENG
-Lorem ipsum..
+## Manusia Lemah Terhadap Beberapa Hal Ini
+> Serangan siber yang sering menargetkan manusia.
+
+** SOCENG: Social Engineering
+_"Amatir menyerang sistem. Profesional menyerang manusia."_
+Mungkin kalimat tersebut sering terdengar bagi kaum-kaum yang sering nongkrong di bidang keamanan informasi dan siber. Apakah terkesan lebay? Hmmm... Tidak juga. Karena memang pada dasarnya manusia lah yang menjadi mata rantai terlemah dalam sebuah sistem. Salah satu bacaan mengenai Soceng dapat dibaca dalam buku berjudul _"Social Engineering: The Science of Human Hacking 2nd Edition"_ oleh Christopher Hadnagy.
+
+Dalam konteks keamanan informasi, _Social Engineering_ atau Rekayasa Sosial merupakan istilah yang dipakai untuk berbagai aktivitas jahat melalui manipulasi psikologis orang untuk melakukan tindakan atau membocorkan informasi rahasia. Hal ini berbeda dengan rekayasa sosial dalam ilmu sosial, yang tidak menyangkut pengungkapan informasi rahasia.
+
+Simpelnya. Soceng itu **nge-hack manusia**.
+
+*** Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
+
+** Phishing **
+
+*** Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
