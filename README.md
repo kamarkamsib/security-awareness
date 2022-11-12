@@ -29,12 +29,18 @@ Lorem ipsum..
 * Insiden KI dan Kewaspadaan terhadap Malware dan Phising
 
 ## Klasifikasi Data dan Informasi
-> PMK Nomor 97 Tahun 2017:
+> Menurut ~~PMK Nomor 97 Tahun 2017~~ PMK Nomor 133/PMK.01/2022:
 
 * SANGAT RAHASIA
 * RAHASIA
 * TERBATAS
 * PUBLIK
+
+> Menurut Perban BSSN Nomor 8 tahun 2020:
+
+* Sangat Rahasia
+* Rahasia dan/ atau Terbatas
+* Biasa
 
 ## PANDUAN UMUM PENGAMANAN DOKUMEN
 * Jangan membiarkan dokumen sensitif terbuka
