@@ -11,7 +11,7 @@ Sering kali yang muncul di benak adalah _"Saya mau belajar tentang h4cking, pent
 * Integrity (Integritas): melindungi keutuhan datadan informasi organisasi dari modifikasi yang tidaksah 
 * Availability (Ketersediaan): melindungi ketersediaan data dan informasi organisasi, sehingga data tersedia pada saat dibutuhkan
 
-[Insret Gambar CIA Triad]
+![CIA](kamsib-cia-triad.png)
 
 ## Mengapa Harus Aware?
 Lorem ipsum..
