@@ -41,40 +41,28 @@ Lorem ipsum..
 * Rahasia dan/ atau Terbatas
 * Biasa
 
-## PANDUAN UMUM PENGAMANAN DOKUMEN
-* Jangan membiarkan dokumen sensitif terbuka
+## Panduan Umum Pengamanan Dokumen
+* Jangan membiarkan **dokumen sensitif** terbuka
 * Jangan mencetak dokumen sensitif di printer yang diluar jangkauan
 * Jangan berbagi informasi sensitif
-* Jangan melihat informasi sensitif yang bukan kewenangannya
+* Jangan melihat **informasi sensitif** yang bukan kewenangannya
 * Jangan menyimpan informasi sensitif di luar fasilitas kedinasan
 * Jangan membuang laporan/informasi tanpa dihancurkan terlebih dahulu
 * Jangan memberikan aset informasi kepada pihak lain untuk kepentingan di luar kedinasan
-* Memberikan label/kode kerahasiaan pada amplop pembungkus dokumen sensitif
+* Memberikan **label/kode kerahasiaan** pada amplop pembungkus dokumen sensitif
 
-## Pengamanan Area
-Lorem ipsum..
+## Macam Pengamanan 
+* Pengamanan Area
+* Pengamanan Perangkat
+* Penggunaan Kata Sandi
+* Penggunaan Internet dan Network Internal
+* Penggunaan Email
+* Penggunaan WIFI
+* Pengamanan Media Sosial
 
-## Pengamanan Perangkat
-Lorem ipsum..
+## RANSOM IS REAL!
 
-## Penggunaan Kata Sandi
-Lorem ipsum..
-
-## Penggunaan Internet dan Network Internal
-Lorem ipsum..
-
-## Penggunaan Email
-Lorem ipsum..
-
-## Penggunaan WIFI
-Lorem ipsum..
-
-## MEDIA SOSIAL
-Lorem ipsum..
-
-## RANSOM
-aaa
-bbb
+Lorem ipsum dolor sit amet.
 **Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
 
 ## Manusia Lemah Terhadap Beberapa Hal Ini
@@ -92,6 +80,7 @@ Simpelnya. Soceng itu **nge-hack manusia**.
 **Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
 
 ###  Phishing
-aaa
-bbb
+
+Phising adalah ...
+
 **Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
