@@ -100,6 +100,10 @@ Praktik pengiriman email tidak sah yang mengaku berasal dari situs yang sah dala
 Nanti akan menjelaskan tentang brute force, dictionary, dan rule based attack.
 
 > Lebih lengkap mengenai Indeks KAMI dapat dilihat di direktori [/brute-force/](https://github.com/kamarkamsib/security-awareness/tree/main/brute-force)
+
+![image](https://user-images.githubusercontent.com/86943173/202736951-0bfe61e2-1cac-4c73-bf80-ae0cdc2ff2c4.png)
+![image](https://user-images.githubusercontent.com/86943173/202737012-da4522c7-571f-415b-abda-da34d2496174.png)
+
 > Cek berapa lama password kamu bisa dibobol di [Password Checker SingCERT](https://www.csa.gov.sg/singcert/Resources/Password-Checker)
 
 # 5. INDEKS KAMI
