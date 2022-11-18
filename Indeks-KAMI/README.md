@@ -8,3 +8,8 @@ Bentuk evaluasi yang diterapkan dalam indeks KAMI dirancang untuk dapat digunaka
 
 Alat evaluasi ini kemudian bisa digunakan secara berkala untuk mendapatkan gambaran perubahan kondisi keamanan informasi sebagai hasil dari program kerja yang dijalankan, sekaligus sebagai sarana untuk menyampaikan peningkatan kesiapan kepada pihak yang terkait (stakeholders).
 
+![image](https://user-images.githubusercontent.com/86943173/202697387-61f1c81a-2234-41c4-ba08-36bda61ba181.png)
+
+Indeks KAMI tidak ditujukan untuk menganalisis kelayakan atau efektivitas bentuk pengamanan yang ada, melainkan sebagai perangkat untuk memberikan gambaran kondisi kesiapan kerangka kerja keamanan informasi kepada Pimpinan Instansi. Implementasi Indeks KAMI dilakukan oleh penyelenggara layanan publik secara elektronik melalui Bimbingan Teknis, Asesmen, dan Konsultasi.
+
+
