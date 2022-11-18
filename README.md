@@ -1,10 +1,10 @@
 # security-awareness
 Mengulas semua materi kesadaran keamanan informasi dan siber dalam bahasa Indonesia yang mudah dipahami.
 
-# Bagaimana saya memulai dari NOL?
+# 1. Bagaimana saya memulai dari NOL?
 Sering kali yang muncul di benak adalah _"Saya mau belajar tentang h4cking, pentesting, manajemen keamanan informasi, dan bahkan cyber security secara umum. Tapi bingung mau mulai darimana?"_ Jawaban dari pertanyaan tersebut adalah _"MULAI DARI KUNJUNGI KAMAR KAMSIB!"_. Tulisan ini akan mengajak teman-teman untuk meningkatkan kesadaran akan pentingnya keamanan informasi di dunia maya.
 
-# Prinsip Keamanan Informasi
+# 2. Prinsip Keamanan Informasi
 > CIA Triad
 
 * Confidentiality (Kerahasiaan): melindungi datadan informasi organisasi dari penyingkapan orang–orang yang tidak berhak 
@@ -13,11 +13,11 @@ Sering kali yang muncul di benak adalah _"Saya mau belajar tentang h4cking, pent
 
 ![CIA](kamsib-cia-triad.png)
 
-# Mengapa saya harus aware?
+# 3. Mengapa saya harus aware?
 Sebagai pribadi, khususnya sebagai salah satu bagian dari instansi/organisasi, kita harus membekali diri kita dengan ilmu dan kesadaran akan keamanan suatu informasi. Bukan hanya mengjadi nilai positif bagi instansi, tapi juga ke diri pribadi. _Siapa sih yang mau berselancar di internet dengan rasa takut?_ Tentu tidak ada kan?
 [Insert grafik ancaman dan serangan]
 
-## Penerapan Kaminfo dalam Hal Simpel
+## 3.1 Penerapan Kaminfo dalam Hal Simpel
 * Klasifikasi Aset Informasi dan Kerahasiaan Informasi
 * Keamanan Fisik
 * Keamanan Komputer
@@ -27,7 +27,7 @@ Sebagai pribadi, khususnya sebagai salah satu bagian dari instansi/organisasi, k
 * Perangkat Lunak Berlisensi
 * Insiden KI dan Kewaspadaan terhadap Malware dan Phising
 
-## Klasifikasi Data dan Informasi
+## 3.2 Klasifikasi Data dan Informasi
 > Menurut ~~PMK Nomor 97 Tahun 2017~~ PMK Nomor 133/PMK.01/2022:
 
 * SANGAT RAHASIA
@@ -41,7 +41,7 @@ Sebagai pribadi, khususnya sebagai salah satu bagian dari instansi/organisasi, k
 * Rahasia dan/ atau Terbatas
 * Biasa
 
-## Panduan Umum Pengamanan Dokumen
+## 3.3 Panduan Umum Pengamanan Dokumen
 * Jangan membiarkan **dokumen sensitif** terbuka
 * Jangan mencetak dokumen sensitif di printer yang diluar jangkauan
 * Jangan berbagi informasi sensitif
@@ -51,7 +51,7 @@ Sebagai pribadi, khususnya sebagai salah satu bagian dari instansi/organisasi, k
 * Jangan memberikan aset informasi kepada pihak lain untuk kepentingan di luar kedinasan
 * Memberikan **label/kode kerahasiaan** pada amplop pembungkus dokumen sensitif
 
-## Macam Pengamanan 
+## 3.4 Macam Pengamanan 
 * Pengamanan Area
 * Pengamanan Perangkat
 * Penggunaan Kata Sandi
@@ -60,16 +60,16 @@ Sebagai pribadi, khususnya sebagai salah satu bagian dari instansi/organisasi, k
 * Penggunaan WIFI
 * Pengamanan Media Sosial
 
-# SERANGAN 
-## RANSOM IS REAL!
-### Attacks = Motive (Goal) + Method + Vulnerability
+# 4. SERANGAN 
+## 4.1 RANSOM IS REAL!
+** Attacks = Motive (Goal) + Method + Vulnerability **
 Motif berasal dari gagasan bahwa sistem target menyimpan atau memproses sesuatu yang berharga, dan ini mengarah pada ancaman serangan terhadap sistem Penyerang.
 > Lebih lengkap mengenai RANSOM dapat dilihat di direktori [/ransomware/](https://github.com/kamarkamsib/security-awareness/tree/main/ransomware)
 
-## Manusia Lemah Terhadap Beberapa Hal Ini
+## 4.2 Manusia Lemah Terhadap Beberapa Hal Ini
 > Serangan siber yang sering menargetkan manusia.
 
-### SOCENG: Social Engineering
+### 4.2.1 SOCENG: Social Engineering
 
 _"Amatir menyerang sistem. Profesional menyerang manusia."_
 Mungkin kalimat tersebut sering terdengar bagi kaum-kaum yang sering nongkrong di bidang keamanan informasi dan siber. Apakah terkesan lebay? Hmmm... Tidak juga. Karena memang pada dasarnya manusia lah yang menjadi mata rantai terlemah dalam sebuah sistem. Salah satu bacaan mengenai Soceng dapat dibaca dalam buku berjudul _"Social Engineering: The Science of Human Hacking 2nd Edition"_ oleh Christopher Hadnagy.
@@ -80,10 +80,10 @@ Simpelnya. Soceng itu **nge-hack manusia**.
 
 > Lebih lengkap mengenai SOCENG dapat dilihat di direktori [/soceng/](https://github.com/kamarkamsib/security-awareness/tree/main/soceng)
 
-###  Phishing
+###  4.2.2 Phishing
 
 Praktik pengiriman email tidak sah yang mengaku berasal dari situs yang sah dalam upaya untuk memperoleh informasi pribadi atau akun pengguna Web
 > Lebih lengkap mengenai PHISHING dapat dilihat di direktori [/phishing/](https://github.com/kamarkamsib/security-awareness/tree/main/phishing)
 
-# INDEKS KAMI
+# 5. INDEKS KAMI
 Indeks KAMI adalah alat evaluasi untuk menganalisa tingkat kesiapan pengamanan informasi di suatu organisasi. Alat evaluasi ini tidak ditujukan untuk menganalisa kelayakan atau efektifitas bentuk pengamanan yang ada, melainkan sebagai perangkat untuk memberikan gambaran kondisi kesiapan (kelengkapan dan kematangan) kerangka kerja keamanan informasi kepada pimpinan Instansi/Perusahaan. Evaluasi dilakukan terhadap berbagai area yang menjadi target penerapan keamanan informasi dengan ruang lingkup pembahasan yang juga memenuhi semua aspek keamanan yang didefinisikan oleh standar ISO/IEC 27001:2013.
