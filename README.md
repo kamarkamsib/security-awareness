@@ -96,3 +96,6 @@ Indeks KAMI adalah alat evaluasi untuk menganalisa tingkat kesiapan pengamanan i
 # 6. Security Awareness dalam Bidang Perbankan
 https://media.neliti.com/media/publications/66796-ID-kesadaran-keamanan-informasi-pada-pegawa.pdf
 https://www.bca.co.id/-/media/Feature/Report/File/Sustainability-Index/SASB/SASB-FNCB230a1-1-Jumlah-pelanggaran-data-2-persentase-yang-melibatkan-informasi-identitas-pribadi-PI.pdf
+
+# 7. Autentikasi dan Enkripsi
+Autentikasi dan enkripsi adalah dua hal yang berbeda. Tapi kedua tekonologi ini saling berkaitan yang membantu memastikan data kita aman. Autentikasi (_authentication_) menurut KBBI adalah proses, cara, perbuatan membuktikan sesuatu secara autentik (dapat dipercaya, asli, tulen, sah). Sedangkan enkripsi (_encryption_) membantu untuk memastikan bahwa informasi di dalam sebuah sistem tidak dimodifikasi.
