@@ -109,3 +109,6 @@ Autentikasi dan enkripsi adalah dua hal yang berbeda. Tapi kedua tekonologi ini 
 
 ## 7.1 Serangan Session Hijacking
 Autentikasi yang baik diperlukan untuk menghindari serangan. Salah satu serangan yang bisa dilakukan adalah **Session Hijacking**. Session hijacking (pembajakan sesi) adalah teknik yang digunakan oleh peretas untuk mendapatkan akses ke komputer atau akun target. Dalam serangan pembajakan sesi, seorang peretas mengendalikan sesi penjelajahan pengguna untuk mendapatkan akses ke informasi pribadi dan kata sandi.
+
+## 7.2 Modifikasi Data
+Enkripsi diperlukan di sini...
