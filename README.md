@@ -1,6 +1,15 @@
 # security-awareness
 Mengulas semua materi kesadaran keamanan informasi dan siber dalam bahasa Indonesia yang mudah dipahami.
 
+* **Judul:** Security Awareness
+* **Pemateri:** Anton Lepari
+* **Durasi:** x jam
+* **Output:** 
+* * Peserta diharapkan menjadi sadar akan pentingnya keamanan di dunia siber.
+* * Peserta diharapkan mampu memahami bentuk serangan yang rawan terjadi di masyarakat.
+* * Peserta diharapkan mampu memahami cara membentengi diri dari serangan ataupun kelalaian.
+* **Media:** Webinar, Tekstual (GitHub)
+
 # 1. Bagaimana saya memulai dari NOL?
 Sering kali yang muncul di benak adalah _"Saya mau belajar tentang h4cking, pentesting, manajemen keamanan informasi, dan bahkan cyber security secara umum. Tapi bingung mau mulai darimana?"_ Jawaban dari pertanyaan tersebut adalah _"MULAI DARI KUNJUNGI KAMAR KAMSIB!"_. Tulisan ini akan mengajak teman-teman untuk meningkatkan kesadaran akan pentingnya keamanan informasi di dunia maya.
 
