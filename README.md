@@ -62,7 +62,8 @@ Sebagai pribadi, khususnya sebagai salah satu bagian dari instansi/organisasi, k
 
 # 4. SERANGAN 
 ## 4.1 RANSOM IS REAL!
-** Attacks = Motive (Goal) + Method + Vulnerability **
+**Attacks = Motive (Goal) + Method + Vulnerability**
+
 Motif berasal dari gagasan bahwa sistem target menyimpan atau memproses sesuatu yang berharga, dan ini mengarah pada ancaman serangan terhadap sistem Penyerang.
 > Lebih lengkap mengenai RANSOM dapat dilihat di direktori [/ransomware/](https://github.com/kamarkamsib/security-awareness/tree/main/ransomware)
 
@@ -87,3 +88,5 @@ Praktik pengiriman email tidak sah yang mengaku berasal dari situs yang sah dala
 
 # 5. INDEKS KAMI
 Indeks KAMI adalah alat evaluasi untuk menganalisa tingkat kesiapan pengamanan informasi di suatu organisasi. Alat evaluasi ini tidak ditujukan untuk menganalisa kelayakan atau efektifitas bentuk pengamanan yang ada, melainkan sebagai perangkat untuk memberikan gambaran kondisi kesiapan (kelengkapan dan kematangan) kerangka kerja keamanan informasi kepada pimpinan Instansi/Perusahaan. Evaluasi dilakukan terhadap berbagai area yang menjadi target penerapan keamanan informasi dengan ruang lingkup pembahasan yang juga memenuhi semua aspek keamanan yang didefinisikan oleh standar ISO/IEC 27001:2013.
+
+> Lebih lengkap mengenai Indeks KAMI dapat dilihat di direktori [/Indeks-KAMI/](https://github.com/kamarkamsib/security-awareness/tree/main/Indeks-KAMI)
