@@ -106,3 +106,6 @@ https://www.bca.co.id/-/media/Feature/Report/File/Sustainability-Index/SASB/SASB
 
 # 7. Autentikasi dan Enkripsi
 Autentikasi dan enkripsi adalah dua hal yang berbeda. Tapi kedua tekonologi ini saling berkaitan yang membantu memastikan data kita aman. Autentikasi (_authentication_) menurut KBBI adalah proses, cara, perbuatan membuktikan sesuatu secara autentik (dapat dipercaya, asli, tulen, sah). Sedangkan enkripsi (_encryption_) membantu untuk memastikan bahwa informasi di dalam sebuah sistem tidak dimodifikasi.
+
+## 7.1 Serangan Session Hijacking
+Autentikasi yang baik diperlukan untuk menghindari serangan. Salah satu serangan yang bisa dilakukan adalah **Session Hijacking**. Session hijacking (pembajakan sesi) adalah teknik yang digunakan oleh peretas untuk mendapatkan akses ke komputer atau akun target. Dalam serangan pembajakan sesi, seorang peretas mengendalikan sesi penjelajahan pengguna untuk mendapatkan akses ke informasi pribadi dan kata sandi.
