@@ -83,3 +83,6 @@ Simpelnya. Soceng itu **nge-hack manusia**.
 
 Praktik pengiriman email tidak sah yang mengaku berasal dari situs yang sah dalam upaya untuk memperoleh informasi pribadi atau akun pengguna Web
 > Lebih lengkap mengenai PHISHING dapat dilihat di direktori [/phishing/](https://github.com/kamarkamsib/security-awareness/tree/main/phishing)
+
+## INDEKS KAMI
+Indeks KAMI adalah alat evaluasi untuk menganalisa tingkat kesiapan pengamanan informasi di suatu organisasi. Alat evaluasi ini tidak ditujukan untuk menganalisa kelayakan atau efektifitas bentuk pengamanan yang ada, melainkan sebagai perangkat untuk memberikan gambaran kondisi kesiapan (kelengkapan dan kematangan) kerangka kerja keamanan informasi kepada pimpinan Instansi/Perusahaan. Evaluasi dilakukan terhadap berbagai area yang menjadi target penerapan keamanan informasi dengan ruang lingkup pembahasan yang juga memenuhi semua aspek keamanan yang didefinisikan oleh standar ISO/IEC 27001:2013.
