@@ -61,9 +61,9 @@ Lorem ipsum..
 * Pengamanan Media Sosial
 
 ## RANSOM IS REAL!
-
-Lorem ipsum dolor sit amet.
-**Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
+### Attacks = Motive (Goal) + Method + Vulnerability
+Motif berasal dari gagasan bahwa sistem target menyimpan atau memproses sesuatu yang berharga, dan ini mengarah pada ancaman serangan terhadap sistem Penyerang.
+> Lebih lengkap mengenai RANSOM dapat dilihat di direktori [/ransomware/](https://github.com/kamarkamsib/security-awareness/tree/main/ransomware)
 
 ## Manusia Lemah Terhadap Beberapa Hal Ini
 > Serangan siber yang sering menargetkan manusia.
@@ -77,10 +77,9 @@ Dalam konteks keamanan informasi, _Social Engineering_ atau Rekayasa Sosial meru
 
 Simpelnya. Soceng itu **nge-hack manusia**.
 
-**Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
+> Lebih lengkap mengenai SOCENG dapat dilihat di direktori [/soceng/](https://github.com/kamarkamsib/security-awareness/tree/main/soceng)
 
 ###  Phishing
 
-Phising adalah ...
-
-**Lebih lengkap mengenai X dapat dilihat di direktory Y https//.
+Praktik pengiriman email tidak sah yang mengaku berasal dari situs yang sah dalam upaya untuk memperoleh informasi pribadi atau akun pengguna Web
+> Lebih lengkap mengenai PHISHING dapat dilihat di direktori [/phishing/](https://github.com/kamarkamsib/security-awareness/tree/main/phishing)
