@@ -112,3 +112,4 @@ Autentikasi yang baik diperlukan untuk menghindari serangan. Salah satu serangan
 
 ## 7.2 Modifikasi Data
 Enkripsi diperlukan di sini...
+> Lebih lengkap mengenai Enkripsi dapat dilihat di direktori [/kriptografi/](https://github.com/kamarkamsib/kriptografi)
