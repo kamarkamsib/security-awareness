@@ -89,4 +89,10 @@ Praktik pengiriman email tidak sah yang mengaku berasal dari situs yang sah dala
 # 5. INDEKS KAMI
 Indeks KAMI adalah alat evaluasi untuk menganalisa tingkat kesiapan pengamanan informasi di suatu organisasi. Alat evaluasi ini tidak ditujukan untuk menganalisa kelayakan atau efektifitas bentuk pengamanan yang ada, melainkan sebagai perangkat untuk memberikan gambaran kondisi kesiapan (kelengkapan dan kematangan) kerangka kerja keamanan informasi kepada pimpinan Instansi/Perusahaan. Evaluasi dilakukan terhadap berbagai area yang menjadi target penerapan keamanan informasi dengan ruang lingkup pembahasan yang juga memenuhi semua aspek keamanan yang didefinisikan oleh standar ISO/IEC 27001:2013.
 
+![image](https://user-images.githubusercontent.com/86943173/202699057-f2256cd0-b6bc-43f0-828d-1abc118d8553.png)
+
 > Lebih lengkap mengenai Indeks KAMI dapat dilihat di direktori [/Indeks-KAMI/](https://github.com/kamarkamsib/security-awareness/tree/main/Indeks-KAMI)
+
+# 6. Security Awareness dalam Bidang Perbankan
+https://media.neliti.com/media/publications/66796-ID-kesadaran-keamanan-informasi-pada-pegawa.pdf
+https://www.bca.co.id/-/media/Feature/Report/File/Sustainability-Index/SASB/SASB-FNCB230a1-1-Jumlah-pelanggaran-data-2-persentase-yang-melibatkan-informasi-identitas-pribadi-PI.pdf
