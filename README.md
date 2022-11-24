@@ -17,6 +17,9 @@ Mengulas semua materi kesadaran keamanan informasi dan siber dalam bahasa Indone
 ./ kerugian
 ![image](https://user-images.githubusercontent.com/86943173/203716557-6a303d9d-64b0-4022-8937-9393c0832496.png)
 ![image](https://user-images.githubusercontent.com/86943173/203717049-ff0748d7-319c-44d9-a104-1f087e876369.png)
+![image](https://user-images.githubusercontent.com/86943173/203722745-e26caefa-dd0a-4af3-9118-a8a0e4932beb.png)
+![image](https://user-images.githubusercontent.com/86943173/203722712-2c6d4638-53a0-4753-8fbd-d9cba7e48814.png)
+
 
 
 # 1. Bagaimana saya memulai dari NOL?
