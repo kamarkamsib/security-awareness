@@ -15,6 +15,9 @@ Mengulas semua materi kesadaran keamanan informasi dan siber dalam bahasa Indone
 ./ phone
 ./ web
 ./ kerugian
+![image](https://user-images.githubusercontent.com/86943173/203716557-6a303d9d-64b0-4022-8937-9393c0832496.png)
+![image](https://user-images.githubusercontent.com/86943173/203717049-ff0748d7-319c-44d9-a104-1f087e876369.png)
+
 
 # 1. Bagaimana saya memulai dari NOL?
 Sering kali yang muncul di benak adalah _"Saya mau belajar tentang h4cking, pentesting, manajemen keamanan informasi, dan bahkan cyber security secara umum. Tapi bingung mau mulai darimana?"_ Jawaban dari pertanyaan tersebut adalah _"MULAI DARI KUNJUNGI KAMAR KAMSIB!"_. Tulisan ini akan mengajak teman-teman untuk meningkatkan kesadaran akan pentingnya keamanan informasi di dunia maya.
