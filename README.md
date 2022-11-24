@@ -10,6 +10,12 @@ Mengulas semua materi kesadaran keamanan informasi dan siber dalam bahasa Indone
 * * Peserta diharapkan mampu memahami cara membentengi diri dari serangan ataupun kelalaian.
 * **Media:** Webinar, Tekstual (GitHub)
 
+# 0. Jumlah Serangan Siber Tahun Ini
+[ insert gambar ]
+./ phone
+./ web
+./ kerugian
+
 # 1. Bagaimana saya memulai dari NOL?
 Sering kali yang muncul di benak adalah _"Saya mau belajar tentang h4cking, pentesting, manajemen keamanan informasi, dan bahkan cyber security secara umum. Tapi bingung mau mulai darimana?"_ Jawaban dari pertanyaan tersebut adalah _"MULAI DARI KUNJUNGI KAMAR KAMSIB!"_. Tulisan ini akan mengajak teman-teman untuk meningkatkan kesadaran akan pentingnya keamanan informasi di dunia maya.
 
