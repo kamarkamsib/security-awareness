@@ -1,143 +1,185 @@
-# security-awareness
-Mengulas semua materi kesadaran keamanan informasi dan siber dalam bahasa Indonesia yang mudah dipahami.
+# 🛡️ Security Awareness (Kesadaran Keamanan Informasi & Siber)
 
-* **Judul:** Security Awareness
-* **Pemateri:** Anton Lepari
-* **Durasi:** x jam
-* **Output:** 
-* * Peserta diharapkan menjadi sadar akan pentingnya keamanan di dunia siber.
-* * Peserta diharapkan mampu memahami bentuk serangan yang rawan terjadi di masyarakat.
-* * Peserta diharapkan mampu memahami cara membentengi diri dari serangan ataupun kelalaian.
-* **Media:** Webinar, Tekstual (GitHub)
+Selamat datang di repositori **Security Awareness**. Repositori ini didedikasikan untuk mengulas materi kesadaran keamanan informasi dan siber secara komprehensif dalam bahasa Indonesia yang lugas, interaktif, dan mudah dipahami oleh siapa saja—mulai dari akademisi, pegawai instansi, hingga masyarakat umum.
 
-# 0. Jumlah Serangan Siber Tahun Ini
-[ insert gambar ]
-./ phone
-./ web
-./ kerugian
-Laporan Tahunan Monitoring Keamanan Siber 2021
-![image](https://user-images.githubusercontent.com/86943173/203716557-6a303d9d-64b0-4022-8937-9393c0832496.png)
-![image](https://user-images.githubusercontent.com/86943173/203717049-ff0748d7-319c-44d9-a104-1f087e876369.png)
-![image](https://user-images.githubusercontent.com/86943173/203722745-e26caefa-dd0a-4af3-9118-a8a0e4932beb.png)
-![image](https://user-images.githubusercontent.com/86943173/203722712-2c6d4638-53a0-4753-8fbd-d9cba7e48814.png)
+*   **Judul Materi:** *Security Awareness (Kesadaran Keamanan Siber & Informasi)*
+*   **Pemateri / Kontributor:** Anton Lepari & Komunitas Kamar Kamsib
+*   **Output Pembelajaran:**
+    *   🛡️ Menyadari pentingnya menjaga kerahasiaan dan integritas data di ruang siber.
+    *   ⚠️ Mampu mengenali berbagai bentuk serangan siber aktual yang menargetkan individu maupun instansi.
+    *   🔒 Memahami langkah-langkah praktis untuk memproteksi diri dan memitigasi insiden kebocoran data.
+*   **Media Pembelajaran:** Webinar, Panduan Tekstual (GitHub)
 
+---
 
+## 📌 Daftar Isi
 
-# 1. Bagaimana saya memulai dari NOL?
-Sering kali yang muncul di benak adalah _"Saya mau belajar tentang h4cking, pentesting, manajemen keamanan informasi, dan bahkan cyber security secara umum. Tapi bingung mau mulai darimana?"_ Jawaban dari pertanyaan tersebut adalah _"MULAI DARI KUNJUNGI KAMAR KAMSIB!"_. Tulisan ini akan mengajak teman-teman untuk meningkatkan kesadaran akan pentingnya keamanan informasi di dunia maya.
+1. [📊 Statistik Serangan Siber di Indonesia (Terbaru 2025/2026)](#-statistik-serangan-siber-di-indonesia-terbaru-20252026)
+2. [🚀 Bagaimana Saya Memulai dari Nol?](#-bagaimana-saya-memulai-dari-nol)
+3. [🔑 Prinsip Keamanan Informasi (CIA Triad)](#-prinsip-keamanan-informasi-cia-triad)
+4. [👔 Mengapa Saya Harus Aware?](#-mengapa-saya-harus-aware)
+    * [3.1 Klasifikasi Data & Informasi](#31-klasifikasi-data--informasi)
+    * [3.2 Panduan Umum Pengamanan Dokumen](#32-panduan-umum-pengamanan-dokumen)
+    * [3.3 Macam-Macam Pengamanan TIK](#33-macam-macam-pengamanan-tik)
+5. [⚠️ Jenis Serangan Siber Terkini](#-jenis-serangan-siber-terkini)
+    * [4.1 Ransomware & Kasus PDNS 2](#41-ransomware--kasus-pdns-2)
+    * [4.2 Social Engineering (Rekayasa Sosial)](#42-social-engineering-rekayasa-sosial)
+    * [4.3 Phishing & Modus APK WhatsApp](#43-phishing--modus-apk-whatsapp)
+    * [4.4 Brute-Force & Kekuatan Password](#44-brute-force--kekuatan-password)
+6. [📈 Evaluasi Indeks KAMI](#-evaluasi-indeks-kami)
+7. [🌐 Standar Keamanan Global (ISO/IEC 27001)](#-standar-keamanan-global-isoiec-27001)
+8. [🏫 Keamanan Digital untuk Sekolah](#-keamanan-digital-untuk-sekolah)
+9. [📚 Repositori Artikel & Regulasi](#-repositori-artikel--regulasi)
 
-# 2. Prinsip Keamanan Informasi
-> CIA Triad
+---
 
-* Confidentiality (Kerahasiaan): melindungi datadan informasi organisasi dari penyingkapan orang–orang yang tidak berhak 
-* Integrity (Integritas): melindungi keutuhan datadan informasi organisasi dari modifikasi yang tidaksah 
-* Availability (Ketersediaan): melindungi ketersediaan data dan informasi organisasi, sehingga data tersedia pada saat dibutuhkan
+## 📊 Statistik Serangan Siber di Indonesia (Terbaru 2025/2026)
 
-![CIA](kamsib-cia-triad.png)
+Menurut data resmi pemantauan dari **Badan Siber dan Sandi Negara (BSSN)**, ruang siber Indonesia menghadapi eskalasi ancaman yang belum pernah terjadi sebelumnya:
 
-# 3. Mengapa saya harus aware?
-Sebagai pribadi, khususnya sebagai salah satu bagian dari instansi/organisasi, kita harus membekali diri kita dengan ilmu dan kesadaran akan keamanan suatu informasi. Bukan hanya mengjadi nilai positif bagi instansi, tapi juga ke diri pribadi. _Siapa sih yang mau berselancar di internet dengan rasa takut?_ Tentu tidak ada kan?
-[Insert grafik ancaman dan serangan]
+```
+[Tren Anomali Trafik/Serangan Siber di Indonesia]
 
-## 3.1 Penerapan Kaminfo dalam Hal Simpel
-* Klasifikasi Aset Informasi dan Kerahasiaan Informasi
-* Keamanan Fisik
-* Keamanan Komputer
-* Pengelolaan Kata Sandi (Password)
-* Penggunaan Intranet dan Internet, Surat Elektronik, WIFI, dan
-* Etika Bersosial Media
-* Perangkat Lunak Berlisensi
-* Insiden KI dan Kewaspadaan terhadap Malware dan Phising
+  Tahun | Jumlah Serangan/Anomali
+  ------+-----------------------------------------
+  2024  | 📈 370+ Juta serangan
+  2025  | 🔥 5,5 Miliar serangan (Naik 714%)
+  2026* | ⚡ 1,52 Miliar serangan (*Hingga 15 April 2026)
+```
 
-## 3.2 Klasifikasi Data dan Informasi
-> Menurut ~~PMK Nomor 97 Tahun 2017~~ PMK Nomor 133/PMK.01/2022:
+> [!IMPORTANT]
+> **Mengapa Terjadi Lonjakan Drastis pada 2025–2026?**
+> Penyerang siber kini memanfaatkan teknologi kecerdasan buatan (**Artificial Intelligence / AI**) untuk melakukan otomatisasi serangan secara massal, memutasi *malware* secara cepat (*behavior-based attack*), serta menyusun pesan phishing yang sangat meyakinkan. Hal ini menuntut kita untuk selalu memperbarui pengetahuan keamanan kita secara berkala.
 
-* SANGAT RAHASIA
-* RAHASIA
-* TERBATAS
-* PUBLIK
+---
 
-> Menurut Perban BSSN Nomor 8 tahun 2020:
+## 🚀 Bagaimana Saya Memulai dari Nol?
 
-* Sangat Rahasia
-* Rahasia dan/ atau Terbatas
-* Biasa
+Sering kali muncul pertanyaan:
+> *"Saya ingin belajar tentang hacking, pentesting, manajemen keamanan informasi, atau cyber security secara umum. Tapi bingung harus mulai dari mana?"*
 
-## 3.3 Panduan Umum Pengamanan Dokumen
-* Jangan membiarkan **dokumen sensitif** terbuka
-* Jangan mencetak dokumen sensitif di printer yang diluar jangkauan
-* Jangan berbagi informasi sensitif
-* Jangan melihat **informasi sensitif** yang bukan kewenangannya
-* Jangan menyimpan informasi sensitif di luar fasilitas kedinasan
-* Jangan membuang laporan/informasi tanpa dihancurkan terlebih dahulu
-* Jangan memberikan aset informasi kepada pihak lain untuk kepentingan di luar kedinasan
-* Memberikan **label/kode kerahasiaan** pada amplop pembungkus dokumen sensitif
+Jawabannya adalah **mulai dari dasar kesadaran diri sendiri**. Keamanan siber bukan hanya tentang mengetik perintah rumit di terminal (*hacker-style*), melainkan bagaimana kita melindungi data pribadi dan hak akses kita. Pintu gerbang utama Anda adalah mempelajari repositori ini dan bergabung dalam komunitas **Kamar Kamsib**.
 
-## 3.4 Macam Pengamanan 
-* Pengamanan Area
-* Pengamanan Perangkat
-* Penggunaan Kata Sandi
-* Penggunaan Internet dan Network Internal
-* Penggunaan Email
-* Penggunaan WIFI
-* Pengamanan Media Sosial
+---
 
-# 4. SERANGAN 
-## 4.1 RANSOM IS REAL!
-**Attacks = Motive (Goal) + Method + Vulnerability**
+## 🔑 Prinsip Keamanan Informasi (CIA Triad)
 
-Motif berasal dari gagasan bahwa sistem target menyimpan atau memproses sesuatu yang berharga, dan ini mengarah pada ancaman serangan terhadap sistem Penyerang.
-> Lebih lengkap mengenai RANSOM dapat dilihat di direktori [/ransomware/](https://github.com/kamarkamsib/security-awareness/tree/main/ransomware)
+Dalam dunia keamanan informasi, pilar pertahanan utama ditopang oleh konsep klasik bernama **CIA Triad** (Confidentiality, Integrity, Availability):
 
-## 4.2 Manusia Lemah Terhadap Beberapa Hal Ini
-> Serangan siber yang sering menargetkan manusia.
+```mermaid
+graph TD
+    CIA[Prinsip Utama CIA Triad] --> C[Confidentiality / Kerahasiaan]
+    CIA --> I[Integrity / Integritas]
+    CIA --> A[Availability / Ketersediaan]
+    
+    C --- C_Desc["Hanya pihak berwenang yang dapat mengakses data."]
+    I --- I_Desc["Data tidak dapat dimodifikasi tanpa izin sah."]
+    A --- A_Desc["Data siap diakses kapan pun saat dibutuhkan."]
+```
 
-### 4.2.1 SOCENG: Social Engineering
+*   **Confidentiality (Kerahasiaan):** Menjamin bahwa informasi hanya dapat diakses oleh pihak yang memiliki hak akses resmi. Mencegah kebocoran data (*data breach*).
+*   **Integrity (Integritas):** Menjamin bahwa data tetap utuh, akurat, dan tidak dimodifikasi secara tidak sah dari pengiriman hingga penyimpanan.
+*   **Availability (Ketersediaan):** Menjamin bahwa sistem dan data siap digunakan oleh pengguna yang sah kapan pun dibutuhkan. Mencegah kelumpuhan operasional akibat serangan seperti DDoS atau Ransomware.
 
-_"Amatir menyerang sistem. Profesional menyerang manusia."_
-Mungkin kalimat tersebut sering terdengar bagi kaum-kaum yang sering nongkrong di bidang keamanan informasi dan siber. Apakah terkesan lebay? Hmmm... Tidak juga. Karena memang pada dasarnya manusia lah yang menjadi mata rantai terlemah dalam sebuah sistem. Salah satu bacaan mengenai Soceng dapat dibaca dalam buku berjudul _"Social Engineering: The Science of Human Hacking 2nd Edition"_ oleh Christopher Hadnagy.
+---
 
-Dalam konteks keamanan informasi, _Social Engineering_ atau Rekayasa Sosial merupakan istilah yang dipakai untuk berbagai aktivitas jahat melalui manipulasi psikologis orang untuk melakukan tindakan atau membocorkan informasi rahasia. Hal ini berbeda dengan rekayasa sosial dalam ilmu sosial, yang tidak menyangkut pengungkapan informasi rahasia.
+## 👔 Mengapa Saya Harus Aware?
 
-Simpelnya. Soceng itu **nge-hack manusia**.
+Sebagai pribadi maupun bagian dari organisasi, kita adalah baris pertahanan terdepan. Kelalaian satu orang dapat membuka celah keamanan bagi seluruh instansi.
 
-> Lebih lengkap mengenai SOCENG dapat dilihat di direktori [/soceng/](https://github.com/kamarkamsib/security-awareness/tree/main/soceng)
+### 3.1 Klasifikasi Data & Informasi
 
-###  4.2.2 Phishing
+Tidak semua data diperlakukan sama. Berdasarkan regulasi resmi di Indonesia, data diklasifikasikan sebagai berikut:
 
-Praktik pengiriman email tidak sah yang mengaku berasal dari situs yang sah dalam upaya untuk memperoleh informasi pribadi atau akun pengguna Web
-> Lebih lengkap mengenai PHISHING dapat dilihat di direktori [/phishing/](https://github.com/kamarkamsib/security-awareness/tree/main/phishing)
+#### A. Menurut [PMK Nomor 133/PMK.01/2022](133_PMK.01_2022.pdf):
+| Klasifikasi | Deskripsi | Contoh |
+| :--- | :--- | :--- |
+| **Sangat Rahasia** | Dampak sangat berat bagi negara/organisasi jika bocor | Strategi nasional, kunci enkripsi negara |
+| **Rahasia** | Dampak berat bagi organisasi/unit kerja jika bocor | Data pribadi pegawai lengkap, dokumen audit internal |
+| **Terbatas** | Dampak sedang/terbatas pada internal organisasi | SOP internal kerja yang belum dirilis |
+| **Publik** | Dapat dikonsumsi oleh masyarakat luas tanpa risiko keamanan | Siaran pers resmi, brosur, konten website |
 
-## 4.3 Serangan Brute-force pada Password
+#### B. Menurut [Peraturan BSSN Nomor 8 Tahun 2020](Peraturan_BSSN_Nomor_8_Tahun_2020.pdf):
+*   **Sangat Rahasia**
+*   **Rahasia dan/atau Terbatas**
+*   **Biasa (Publik)**
 
-Nanti akan menjelaskan tentang brute force, dictionary, dan rule based attack.
+---
 
-> Lebih lengkap mengenai Indeks KAMI dapat dilihat di direktori [/brute-force/](https://github.com/kamarkamsib/security-awareness/tree/main/brute-force)
+### 3.2 Panduan Umum Pengamanan Dokumen
 
-![image](https://user-images.githubusercontent.com/86943173/202736951-0bfe61e2-1cac-4c73-bf80-ae0cdc2ff2c4.png)
-![image](https://user-images.githubusercontent.com/86943173/202737012-da4522c7-571f-415b-abda-da34d2496174.png)
+*   ❌ **Clean Desk Policy:** Jangan meninggalkan dokumen sensitif tergeletak di atas meja kerja tanpa pengawasan.
+*   🖨️ **Secure Printing:** Jangan mencetak dokumen penting di printer umum tanpa langsung mengambil hasilnya.
+*   🗣️ **Social Awareness:** Jangan mendiskusikan informasi internal kantor di tempat umum (kafe, transportasi umum).
+*   💾 **Fasilitas Resmi:** Jangan menyimpan berkas kedinasan di penyimpanan *cloud* pribadi (seperti Google Drive personal) atau perangkat milik pribadi tanpa enkripsi.
+*   🗑️ **Document Shredding:** Hancurkan fisik dokumen sensitif (menggunakan *shredder*) sebelum membuangnya ke tempat sampah.
 
-> Cek berapa lama password kamu bisa dibobol di [Password Checker SingCERT](https://www.csa.gov.sg/singcert/Resources/Password-Checker)
+---
 
-# 5. INDEKS KAMI
-Indeks KAMI adalah alat evaluasi untuk menganalisa tingkat kesiapan pengamanan informasi di suatu organisasi. Alat evaluasi ini tidak ditujukan untuk menganalisa kelayakan atau efektifitas bentuk pengamanan yang ada, melainkan sebagai perangkat untuk memberikan gambaran kondisi kesiapan (kelengkapan dan kematangan) kerangka kerja keamanan informasi kepada pimpinan Instansi/Perusahaan. Evaluasi dilakukan terhadap berbagai area yang menjadi target penerapan keamanan informasi dengan ruang lingkup pembahasan yang juga memenuhi semua aspek keamanan yang didefinisikan oleh standar ISO/IEC 27001:2013.
+### 3.3 Macam-Macam Pengamanan TIK
 
-![image](https://user-images.githubusercontent.com/86943173/202699057-f2256cd0-b6bc-43f0-828d-1abc118d8553.png)
+Untuk membentengi diri, kita harus memperhatikan beberapa aspek keamanan berikut:
+1.  **Pengamanan Area:** Mengunci ruangan server, membatasi akses pengunjung fisik.
+2.  **Pengamanan Perangkat:** Mengaktifkan kunci layar otomatis, enkripsi penyimpanan (seperti BitLocker/FileVault).
+3.  **Penggunaan Kata Sandi:** Tidak memakai password yang mudah ditebak atau sama di banyak akun.
+4.  **Jaringan Internal:** Selalu gunakan VPN resmi saat mengakses sistem kantor dari jaringan luar.
+5.  **E-mail & Media Sosial:** Membatasi informasi pribadi yang diposting dan waspada terhadap e-mail asing.
+6.  **Penggunaan Wi-Fi:** Hindari bertransaksi finansial atau login sistem penting saat menggunakan Wi-Fi publik gratis.
 
-> Lebih lengkap mengenai Indeks KAMI dapat dilihat di direktori [/Indeks-KAMI/](https://github.com/kamarkamsib/security-awareness/tree/main/Indeks-KAMI)
+---
 
-# 6. Security Awareness dalam Bidang Perbankan
-https://media.neliti.com/media/publications/66796-ID-kesadaran-keamanan-informasi-pada-pegawa.pdf
-https://www.bca.co.id/-/media/Feature/Report/File/Sustainability-Index/SASB/SASB-FNCB230a1-1-Jumlah-pelanggaran-data-2-persentase-yang-melibatkan-informasi-identitas-pribadi-PI.pdf
+## ⚠️ Jenis Serangan Siber Terkini
 
-# 7. Autentikasi dan Enkripsi
-Autentikasi dan enkripsi adalah dua hal yang berbeda. Tapi kedua tekonologi ini saling berkaitan yang membantu memastikan data kita aman. Autentikasi (_authentication_) menurut KBBI adalah proses, cara, perbuatan membuktikan sesuatu secara autentik (dapat dipercaya, asli, tulen, sah). Sedangkan enkripsi (_encryption_) membantu untuk memastikan bahwa informasi di dalam sebuah sistem tidak dimodifikasi.
+Di bawah ini adalah topik-topik serangan siber yang paling rawan terjadi. Silakan klik tautan untuk membaca panduan lengkap dan mendalam:
 
-## 7.1 Serangan Session Hijacking
-Autentikasi yang baik diperlukan untuk menghindari serangan. Salah satu serangan yang bisa dilakukan adalah **Session Hijacking**. Session hijacking (pembajakan sesi) adalah teknik yang digunakan oleh peretas untuk mendapatkan akses ke komputer atau akun target. Dalam serangan pembajakan sesi, seorang peretas mengendalikan sesi penjelajahan pengguna untuk mendapatkan akses ke informasi pribadi dan kata sandi.
+### 4.1 Ransomware & Kasus PDNS 2
+Ransomware adalah *malware* yang menyandera data dengan cara mengenkripsinya, lalu meminta tebusan uang. 
+*   📖 Baca materi selengkapnya di: [**Panduan Kesadaran Ransomware**](ransomware/README.md) *(Termasuk studi kasus serangan Brain Cipher pada PDNS 2 Indonesia).*
 
-## 7.2 Modifikasi Data
-Enkripsi diperlukan di sini...
-> Lebih lengkap mengenai Enkripsi dapat dilihat di direktori [/kriptografi/](https://github.com/kamarkamsib/kriptografi)
+### 4.2 Social Engineering (Rekayasa Sosial)
+Teknik manipulasi psikologis korban untuk menyerahkan informasi sensitif (seperti PIN, OTP, atau password) secara sukarela karena panik, takut, atau tergiur hadiah.
+*   📖 Baca materi selengkapnya di: [**Panduan Menghadapi Social Engineering**](soceng/README.md)
 
-u
+### 4.3 Phishing & Modus APK WhatsApp
+Upaya memancing korban untuk memberikan data sensitif melalui situs web palsu atau menginstal aplikasi berbahaya (.APK) yang menyamar sebagai kurir paket atau undangan pernikahan.
+*   📖 Baca materi selengkapnya di: [**Panduan Deteksi & Mitigasi Phishing**](phishing/README.md) *(Termasuk langkah tanggap darurat jika telanjur mengeklik).*
+
+### 4.4 Brute-Force & Kekuatan Password
+Metode peretasan akun dengan menebak kombinasi password secara berulang kali menggunakan kamus kata sandi otomatis.
+*   📖 Baca materi selengkapnya di: [**Panduan Manajemen Password & Brute-Force**](brute-force/README.md)
+
+---
+
+## 📈 Evaluasi Indeks KAMI
+
+**Indeks KAMI (Keamanan Informasi)** adalah alat evaluasi untuk menganalisis tingkat kesiapan pengamanan informasi di suatu organisasi berdasarkan standar ISO/IEC 27001.
+*   📖 Pelajari instrumen evaluasi ini di: [**Panduan & Template Indeks KAMI**](Indeks-KAMI/README.md)
+
+---
+
+## 🌐 Standar Keamanan Global (ISO/IEC 27001)
+
+Bagaimana organisasi berstandar internasional mengelola keamanan informasinya? ISO/IEC 27001 adalah jawabannya.
+*   📖 Baca penjelasan transisi standarisasi terbaru di: [**Mengenal Standar ISO/IEC 27001**](iso27001/README.md)
+
+---
+
+## 🏫 Keamanan Digital untuk Sekolah
+
+Materi edukasi khusus yang dirancang untuk membangun kesadaran keamanan digital sejak dini bagi siswa, guru, dan institusi pendidikan.
+*   📖 Lihat silabus dan materi di: [**Keamanan Siber di Lingkungan Sekolah**](materi-sekolah/README.md)
+
+---
+
+## 📚 Repositori Artikel & Regulasi
+
+Kumpulan berkas PDF asli regulasi nasional serta artikel mendalam mengenai *Cyber Kill Chain* dan kerentanan web.
+*   📖 Akses katalog dokumen di: [**Katalog Artikel & Regulasi Kamsib**](docs/README.md)
+
+---
+
+## 📞 Referensi Tepercaya & Bantuan
+*   **Badan Siber dan Sandi Negara (BSSN):** [bssn.go.id](https://bssn.go.id)
+*   **Layanan Aduan Konten Negatif / Penipuan Kominfo:** [aduankonten.id](https://aduankonten.id)
+*   **Portal Laporan Rekening Penipuan Nasional:** [cekrekening.id](https://cekrekening.id)
+*   **Portal Keamanan Siber Nasional BSSN CSIRT:** [gov-csirt.bssn.go.id](https://gov-csirt.bssn.go.id)
